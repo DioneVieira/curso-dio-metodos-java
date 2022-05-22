@@ -1,7 +1,6 @@
 package exercicio01;
 
 public class Mensagem {
-
     public static void obterMensagem(int hora) {
 
         switch (hora) {
